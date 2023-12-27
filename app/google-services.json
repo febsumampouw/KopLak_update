@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "794021979137",
+    "firebase_url": "https://koplak-90e22-default-rtdb.firebaseio.com",
+    "project_id": "koplak-90e22",
+    "storage_bucket": "koplak-90e22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794021979137:android:4505b5222aee04ea7b0c00",
+        "android_client_info": {
+          "package_name": "com.example.koplakmungkin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXawSLGqo-dBjr23oBELBIXjXVf3MUjKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
