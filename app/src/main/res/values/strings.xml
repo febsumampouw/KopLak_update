@@ -83,5 +83,8 @@
     <string name="submit">Submit</string>
     <string name="jual">Jual Kopra</string>
     <string name="create_news">Buat Berita</string>
-
+    <string name="forum_text">saya mendapatkan pembeli di daerah jakarta apakah ada forwarder di gorontalo?</string>
+    <string name="forum_role">seller</string>
+    <string name="forum_comment_count">120</string>
+    <string name="forum_createdAt">3 hari yang lalu</string>
 </resources>
